@@ -18,8 +18,8 @@ To develop an application for streamlined feedback submission on academic depart
 
 ### Access Credentials
 - **Admin**: `admin` | `admin`
-- **Head of Department (HOD)**: `hod` | `hod123`
-- **Teacher Access**: `teacher1` | `teachpass1`, `teacher2` | `teacher2`, ...
+- **Head of Department (HOD)**: `hod` | `hod`
+- **Teacher Access**: `teacher1` | `teacher1`, `teacher2` | `teacher2`, ...
 
 ### Conclusion
 This system enhances feedback analysis, providing key insights for academic enhancements.
