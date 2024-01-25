@@ -19,5 +19,20 @@ The system's architecture incorporates a comprehensive approach that includes da
 - **Multinomial Naive Bayes Classifier with Stemming**: This variation incorporates stemming to reduce words to their root forms, potentially improving classification accuracy.
 - **Support Vector Machine (SVM) Classifier with Stemming**: Combining SVM with stemming to enhance the model's ability to generalize from the training data.
 
+# Access Credentials for Admin
+
+## Administrator Login Information
+- **Username**: admin
+- **Password**: admin
+# Access Credentials for Academic Staff
+
+## Head of Department (HOD) Login
+- **Username**: hod
+- **Password**: hod
+
+## Teacher Access
+- **Username**: teacher1
+- **Password**: teacher1
+and for another teachers teacher2/teacher2 ...
 ## Conclusion
 The project successfully achieves its goal of streamlining feedback collection and analysis, providing valuable insights for academic improvement.
