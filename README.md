@@ -33,6 +33,6 @@ The system's architecture incorporates a comprehensive approach that includes da
 ## Teacher Access
 - **Username**: teacher1
 - **Password**: teacher1
-and for another teachers teacher2/teacher2 ...
+- and for another teachers teacher2/teacher2 ...
 ## Conclusion
 The project successfully achieves its goal of streamlining feedback collection and analysis, providing valuable insights for academic improvement.
