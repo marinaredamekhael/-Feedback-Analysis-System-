@@ -11,9 +11,6 @@ Develop an application for efficient feedback submission about departments and t
 4. **Optimal Algorithm Selection**: Evaluates and selects the most effective algorithm for sentiment and subjectivity extraction.
 5. **Feedback Classification**: Categorizes feedback into Positive, Negative, or Neutral.
 
-### Goal
-To provide comprehensive and objective feedback analysis, aiding educational decision-making through student insights.
-
 ## Enhanced Machine Learning Approach
 The system's architecture incorporates a comprehensive approach that includes data collection, model development, and evaluation, focusing on the following machine learning models:
 
