@@ -2,37 +2,24 @@
 ## Automated Robust Feedback Analysis System for Departments and Teachers
 
 ### Objective
-Develop an application for efficient feedback submission about departments and teachers.
+To develop an application for streamlined feedback submission on academic departments and faculty.
 
 ### Key Features
-1. **Feedback Input**: User-friendly interface for submitting feedback.
-2. **Data Processing with NLTK**: Utilizes Natural Language Toolkit (NLTK) for advanced linguistic analysis of feedback.
-3. **Sentiment Analysis**: Implements machine learning algorithms for sentiment analysis.
-4. **Optimal Algorithm Selection**: Evaluates and selects the most effective algorithm for sentiment and subjectivity extraction.
-5. **Feedback Classification**: Categorizes feedback into Positive, Negative, or Neutral.
+- **Feedback Input**: A user-friendly interface for feedback submission.
+- **Data Processing with NLTK**: Leverages the Natural Language Toolkit for advanced text analysis.
+- **Sentiment Analysis**: Applies machine learning for sentiment detection in feedback.
+- **Optimal Algorithm Selection**: Identifies the most efficient algorithm for sentiment extraction.
+- **Feedback Classification**: Sorts feedback into Positive, Negative, or Neutral categories.
 
-## Enhanced Machine Learning Approach
-The system's architecture incorporates a comprehensive approach that includes data collection, model development, and evaluation, focusing on the following machine learning models:
+### Enhanced Machine Learning Approach
+- **Multinomial Naive Bayes Classifier**: Text classification based on word frequency.
+- **Support Vector Machine (SVM) Classifier**: Optimizes hyperplane for class separation.
+- **With Stemming**: Both classifiers include variants that apply stemming for potentially improved accuracy.
 
-- **Multinomial Naive Bayes Classifier**: A probabilistic model suitable for text classification that considers the frequency of words.
-- **Support Vector Machine (SVM) Classifier**: A robust classifier that finds the optimal hyperplane for class separation.
-- **Multinomial Naive Bayes Classifier with Stemming**: This variation incorporates stemming to reduce words to their root forms, potentially improving classification accuracy.
-- **Support Vector Machine (SVM) Classifier with Stemming**: Combining SVM with stemming to enhance the model's ability to generalize from the training data.
+### Access Credentials
+- **Admin**: `admin` | `admin`
+- **Head of Department (HOD)**: `hod` | `hod123`
+- **Teacher Access**: `teacher1` | `teachpass1`, `teacher2` | `teacher2`, ...
 
-# Access Credentials for Admin
-
-## Administrator Login Information
-- **Username**: admin
-- **Password**: admin
-# Access Credentials for Academic Staff
-
-## Head of Department (HOD) Login
-- **Username**: hod
-- **Password**: hod
-
-## Teacher Access
-- **Username**: teacher1
-- **Password**: teacher1
-- and for another teachers teacher2/teacher2 ...
-## Conclusion
-The project successfully achieves its goal of streamlining feedback collection and analysis, providing valuable insights for academic improvement.
+### Conclusion
+This system enhances feedback analysis, providing key insights for academic enhancements.
