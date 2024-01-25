@@ -14,16 +14,6 @@ Develop an application for efficient feedback submission about departments and t
 ### Goal
 To provide comprehensive and objective feedback analysis, aiding educational decision-making through student insights.
 
-## Core Features
-- **Feedback Collection**: Collects student feedback on various academic aspects like teaching quality, course content, and facilities.
-- **Advanced Data Processing**: Employs Natural Language Toolkit (NLTK) for data extraction and processing.
-- **Sophisticated Sentiment Analysis Models**: Utilizes Multinomial Naive Bayes and Support Vector Machine (SVM) classifiers, both with and without text stemming, to gauge sentiments from the feedback.
-- **Comprehensive Dashboard System**: Features a dashboard for administrators with overall sentiment statistics, and individual dashboards for department heads and faculty.
-
-## System Architecture
-- Implements feedback preprocessing and sentiment classification into positive, negative, and neutral categories.
-- Incorporates role-based user authentication for administrators, heads of departments, and faculty members.
-
 ## Enhanced Machine Learning Approach
 The system's architecture incorporates a comprehensive approach that includes data collection, model development, and evaluation, focusing on the following machine learning models:
 
